@@ -1,0 +1,39 @@
+{
+  "name": "Rare Cryptic Shredder",
+  "description": "Behold the Rare Cryptic Shredder, a formidable entity forged in the crucible of digital realms! This exceptional shredder wields unparalleled power to transmute crypto tokens into coveted treasures. With reduced cooldown times and significantly amplified token yields, it grants its wielder unprecedented productivity in the virtual landscape. Harness its enhanced capabilities, and witness your digital fortune multiply at an astonishing rate! The Shredder's pulsating core is humming...",
+  "image": "ipfs://QmPVYNBDDCjLeF1V7VxkyZWqxVFujdwTFiAwr84MPXY44N",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Capability",
+      "value": "Enhanced Game Token Boost"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Reduced Cooldown Time"
+    },
+    {
+      "trait_type": "Shredding Power",
+      "value": 70
+    },
+    {
+      "trait_type": "Energy Efficiency",
+      "value": "High"
+    },
+    {
+      "trait_type": "Blockchain Compatibility",
+      "value": "Multi-chain"
+    },
+    {
+      "trait_type": "Upgrade Slots",
+      "value": 3
+    },
+    {
+      "trait_type": "Color",
+      "value": "deep purple"
+    }
+  ]
+}

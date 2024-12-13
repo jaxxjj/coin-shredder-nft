@@ -1,0 +1,39 @@
+{
+  "name": "Epic Cryptic Shredder",
+  "description": "Witness the awe-inspiring Epic Cryptic Shredder, a legendary artifact of the digital cosmos! This extraordinary machine stands at the pinnacle of crypto-transmutation technology, effortlessly converting tokens into vast troves of digital wealth. With drastically reduced cooldown times and exponentially increased yields, it propels its owner into the upper echelons of virtual prosperity.",
+  "image": "ipfs://QmVLwGe2GChdYWgPrbFWw8QpmZ7wYNzsyCCDr1ccTXdR7C",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Capability",
+      "value": "Supreme Game Token Amplification"
+    },
+    {
+      "trait_type": "Shredding Power",
+      "value": 99
+    },
+    {
+      "trait_type": "Energy Efficiency",
+      "value": "Ultra High"
+    },
+    {
+      "trait_type": "Blockchain Compatibility",
+      "value": "Omni-chain"
+    },
+    {
+      "trait_type": "Upgrade Slots",
+      "value": 5
+    },
+    {
+      "trait_type": "Color",
+      "value": "radiant neon"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Time Dilation Field"
+    }
+  ]
+}

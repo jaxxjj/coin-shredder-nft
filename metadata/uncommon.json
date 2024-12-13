@@ -1,0 +1,35 @@
+{
+  "name": "Uncommon Cryptic Shredder",
+  "description": "Behold the Cryptic Shredder, a mystical entity born from the digital ether! This uncommon shredder possesses the arcane ability to transmute any crypto token into enigmatic treasures. It has the ability to amplify token yields, granting its wielder enhanced productivity in the virtual realms. Harness its power, and watch as your digital fortune multiplies in ways you never imagined! The Shredder's pulsating core is humming...",
+  "image": "ipfs://QmcyRuQSSfefM2LgiawrXQdhG7qzx37htmDTYEUXSgj8d5",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Capability",
+      "value": "Game Token Boost"
+    },
+    {
+      "trait_type": "Shredding Power",
+      "value": 55
+    },
+    {
+      "trait_type": "Energy Efficiency",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Blockchain Compatibility",
+      "value": "Multi-chain"
+    },
+    {
+      "trait_type": "Upgrade Slots",
+      "value": 2
+    },
+    {
+      "trait_type": "Color",
+      "value": "pale blue"
+    }
+  ]
+}

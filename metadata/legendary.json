@@ -1,0 +1,15 @@
+{
+  "name": "Cryptic Sovereign Token",
+  "description": "The ultimate crypto entity.",
+  "image": "ipfs://QmRby5aayU5BCWwEVYCLcaRcL22XfcSxpto8Nj4mRgTvxT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Cosmic Authority",
+      "value": "Absolute"
+    }
+  ]
+}
